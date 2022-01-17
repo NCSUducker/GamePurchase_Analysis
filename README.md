@@ -1,5 +1,5 @@
-# Pandas-Challenge
-## Analysis
+# Game Purchase Analysis
+## Analysis manipulating with Pandas libary in Python 
 
 This project centered around analyzing different age and gender demographics in relation to their purchases in the Heroes of Pymoli video game. There are 576 unique players that parttake in this video game. 
 
